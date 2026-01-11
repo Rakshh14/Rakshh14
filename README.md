@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rakshit Aggarwal</h1>
-<h3 align="center">📊 Business Analyst </h3>
 
 I’m an aspiring **Business Analyst** with a strong interest in data, problem-solving, and understanding how businesses make decisions. As a fresher, I’m focused on learning, practicing, and building real-world skills through hands-on projects.
 
